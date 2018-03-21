@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "my.great.tomlocal.pourcentage3",
-    "sha256_cert_fingerprints":
-    ["D4:94:62:B3:20:D6:56:65:C0:A6:F9:24:13:BE:89:20:D2:66:B7:A4:A3:21:91:5B:6F:6D:9F:1F:92:69:B1:08"]
-  }
-}]
